@@ -1,0 +1,60 @@
+hr@acehelp.ng
+	
+Mon, Jan 22, 4:32 PM (21 hours ago)
+	
+to info
+Dear Applicant,
+
+We hope this email finds you well. We are pleased to inform you that
+following a careful review of your application, we would like to invite
+you for brief examination. Kindly find the details and timeframe below;
+
+
+Task Organization: Building and Deploying a Node.js Backend Service
+
+Objective:
+Build and deploy a backend service using Node.js, MongoDB, and the
+Express framework. The backend should include essential endpoints such
+as login using JWT, fetching user records with filtering options, and
+showcasing advanced skills in creating multiple relationships between
+schemas and handling expensive operations.
+
+Timeline:
+Complete the task and push the code to GitHub within the next 48 hours.
+
+Task Breakdown:
+
+ 1.⁠ ⁠*Setup Project Structure:*
+    - Create a new Node.js project.
+    - Initialize a Git repository.
+
+ 2.⁠ ⁠*Implement Backend with Express:*
+    - Set up Express as the backend framework.
+    - Define routes for the following endpoints:
+      - Login using JWT.
+      - Get users' records with filtering options (by date added, first
+name, last name).
+
+ 3.⁠ ⁠*Integrate MongoDB:*
+    - Connect the backend to a MongoDB database.
+
+ 4.⁠ ⁠*JWT Authentication:*
+    - Implement JWT authentication for the login endpoint.
+
+ 5.⁠ ⁠*Implement Advanced Operations:*
+    - Showcase the ability to create multiple relationships between
+schemas.
+    - Implement and demonstrate handling of expensive operations.
+
+ 7.⁠ ⁠*Deployment:*
+    - Deploy the backend service to a testable environment.
+
+ 8.⁠ ⁠*GitHub Repository:*
+    - Push the code to a dedicated public GitHub repository.
+
+   Follow best practices for Node.js
+
+Best regards,
+
+Happiness
+HR Team
