@@ -11,6 +11,7 @@ import { isAdmin } from "../../middleware/authMiddleware.js";
 
 const router = express.Router();
 
+// individual routes
 router.get("/", isAdmin, getUsers);
 router.get("/", getUsersWithSearch);
 router.get("/:userId", getUser);
